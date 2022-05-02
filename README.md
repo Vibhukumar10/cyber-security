@@ -1,6 +1,7 @@
 # This repository contains all major Cyber-Security concepts :fire:
 
 ## The following topics are included:
+
 [x] Euclid GCD Algorithm
 [x] Extended Euclid (GCD + MMI) Algorithm
 [x] MMI Calculator
